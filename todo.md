@@ -26,3 +26,7 @@
 - [x] Fornecer instruções de deploy ao usuário
 
 - [x] Adaptar projeto para deploy na Netlify em vez de Vercel
+
+## Bugs Encontrados
+
+- [ ] Erro 404 ao acessar o site na Netlify - precisa configurar redirects corretamente
