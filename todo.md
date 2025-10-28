@@ -18,3 +18,9 @@
 - O código fornecido usa Tailwind CSS e fontes do Google Fonts
 - O cardápio possui várias seções: Hambúrgueres, Hot Dogs, Queijo Quente, Bebidas, etc.
 - Layout responsivo com duas colunas em desktop e uma coluna em mobile
+
+## Mudanças Solicitadas
+
+- [x] Mudar domínio do site para cardapiocasadocheff (usar Vercel gratuito)
+- [x] Preparar projeto para deploy na Vercel
+- [x] Fornecer instruções de deploy ao usuário
