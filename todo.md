@@ -33,3 +33,5 @@
 - [x] Título mostrando %VITE_APP_TITLE% em vez do nome real - precisa corrigir index.html com meta tags
 
 - [x] Adicionar imagem de prévia (Open Graph Image) para aparecer ao compartilhar o link
+
+- [ ] Imagem de prévia (og-image) não está aparecendo ao compartilhar o link - precisa verificar e corrigir
