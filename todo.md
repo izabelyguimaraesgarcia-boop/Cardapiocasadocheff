@@ -24,3 +24,5 @@
 - [x] Mudar domínio do site para cardapiocasadocheff (usar Vercel gratuito)
 - [x] Preparar projeto para deploy na Vercel
 - [x] Fornecer instruções de deploy ao usuário
+
+- [x] Adaptar projeto para deploy na Netlify em vez de Vercel
