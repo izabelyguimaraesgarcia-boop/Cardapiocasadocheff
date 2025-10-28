@@ -29,4 +29,5 @@
 
 ## Bugs Encontrados
 
-- [ ] Erro 404 ao acessar o site na Netlify - precisa configurar redirects corretamente
+- [x] Erro 404 ao acessar o site na Netlify - precisa configurar redirects corretamente
+- [ ] Título mostrando %VITE_APP_TITLE% em vez do nome real - precisa corrigir index.html com meta tags
