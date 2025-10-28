@@ -32,4 +32,4 @@
 - [x] Erro 404 ao acessar o site na Netlify - precisa configurar redirects corretamente
 - [x] Título mostrando %VITE_APP_TITLE% em vez do nome real - precisa corrigir index.html com meta tags
 
-- [ ] Adicionar imagem de prévia (Open Graph Image) para aparecer ao compartilhar o link
+- [x] Adicionar imagem de prévia (Open Graph Image) para aparecer ao compartilhar o link
